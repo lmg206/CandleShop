@@ -1,8 +1,13 @@
 # CandleShop
 I created an interactive candle shop created for my Objected Oriented Design final project. Laurel's Candle Shop utilizes user input to store preferences and in turn, print out an ascii version of their ideal candle.
 
-To run the shop, clone the repository and run using the CandleShop.java class.
-
+To run the shop, clone the repository and run using the CandleShop.java class:
+![](images/candle0.png)
+Choose your number of fragrances and view the options
+![](images/candle2.png)
+![](images/candle3.png)
+After inputting your selected fragrances, your candle is printed out:
+![](images/candle4.png)
 
 
 
