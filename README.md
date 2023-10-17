@@ -24,4 +24,4 @@ I chose the creational design pattern **Factory** to create my Candle object wit
 My behavorial design pattern used is **State** to facilitate the changing states between fragrance categories. Multiple states were created for different fragrance categories (Floral, Woody, Citrus, etc.), as well as states for viewing All Fragrances and Categories. This pattern accommodated dynamic user decisions and allows users to explore all their options before making a final fragrance choice, eliminating the need to create a new FragranceJourney each time a change is required.
 
 ### UML Diagram
-<img src="images/CandleShopUML.jp2" width="700">
+<img src="images/CandleShopUML5.png" width="720">
