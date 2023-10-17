@@ -1,3 +1,5 @@
+❮img src="images/candle4.png" width="50", height="3"❯
+
 # CandleShop
 I created an interactive candle shop created for my Objected Oriented Design final project. Laurel's Candle Shop utilizes user input to store preferences and in turn, print out an ascii version of their ideal candle.
 
